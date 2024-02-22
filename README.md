@@ -1,3 +1,9 @@
+Cdaprod Tasks & Ideaa: 
+- Can this be utilized for self networking when passed to a local conversational LLM?
+- Implement as tool (RunnableLambda) and pass it to Agent Team SysAdmins.
+
+---
+v Original v
 
 # SSH-Snake: Automated SSH-Based Network Traversal
 
