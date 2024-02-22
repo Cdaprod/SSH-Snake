@@ -1,6 +1,14 @@
-Cdaprod Tasks & Ideas: 
+__Cdaprod Tasks & Ideas__
+
+AI:
 - Can this be utilized for self networking when passed to a local conversational LLM?
 - Implement as tool (RunnableLambda) and pass it to Agent Team SysAdmins.
+
+Sec:
+- develop a penetration test on self
+
+
+
 
 ---
 v Original v
